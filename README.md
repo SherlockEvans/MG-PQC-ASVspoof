@@ -1,5 +1,5 @@
 # MG-PQC-ASVspoof
-To view the complete ML-DSA algorithm and ML-KEM algorithm, you can refer to websites: https://github.com/GiacomoPope/dilithium-py  and  https://github.com/GiacomoPope/kyber-py
+To view the complete ML-DSA algorithm, you can refer to websites: https://github.com/GiacomoPope/dilithium-py 
 
 When using CM1 network model, replace the network model in RawNetGatSpoofST.py  cite： https://github.com/clovaai/aasist/tree/main/models
 
